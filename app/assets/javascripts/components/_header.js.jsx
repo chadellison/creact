@@ -2,7 +2,7 @@ var Header = React.createClass({
   render() {
     return(
       <div>
-        <h1>Creact</h1>
+        <h1>Jones</h1>
       </div>
     )
   }
